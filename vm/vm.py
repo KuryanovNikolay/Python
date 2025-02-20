@@ -157,7 +157,6 @@ class Frame:
         code = self.pop()  # the code associated with the function (at TOS1)
 
         def f(*args: tp.Any, **kwargs: tp.Any) -> tp.Any:
-            # TODO: parse input arguments using code attributes such as co_argcount
 
             parsed_args: dict[str, tp.Any] = {}
             f_locals = dict(self.locals)
