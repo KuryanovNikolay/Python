@@ -1,0 +1,29 @@
+{
+    "configFile": "C:\\Users\\Nikolaus\\PycharmProjects\\configuration_processing\\tests\\test.txt",
+    "configurationID": 4,
+    "configurationData": {
+        "mode": "dir",
+        "path": [
+            "C:\\Users\\Nikolaus\\PycharmProjects\\configuration_processing\\tests\\directory\\input1.txt",
+            "C:\\Users\\Nikolaus\\PycharmProjects\\configuration_processing\\tests\\directory\\input2.txt"
+        ]
+    },
+    "out": {
+        "1": {
+            "1": 4,
+            "2": 4
+        },
+        "2": {
+            "1": 4,
+            "2": 4
+        },
+        "3": {
+            "1": 4,
+            "2": 4
+        },
+        "4": {
+            "1": 4,
+            "2": 4
+        }
+    }
+}

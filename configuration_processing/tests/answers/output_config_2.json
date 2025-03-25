@@ -1,0 +1,21 @@
+{
+    "configFile": "C:\\Users\\Nikolaus\\PycharmProjects\\configuration_processing\\tests\\test.txt",
+    "configurationID": 2,
+    "configurationData": {
+        "mode": "files",
+        "path": [
+            "C:\\Users\\Nikolaus\\PycharmProjects\\configuration_processing\\tests\\input1.txt",
+            "C:\\Users\\Nikolaus\\PycharmProjects\\configuration_processing\\tests\\input2.txt"
+        ]
+    },
+    "out": {
+        "1": {
+            "1": "str12 from file 1",
+            "2": "str13 from file 2"
+        },
+        "2": {
+            "1": "str23 from file 1",
+            "2": "str24 from file 2"
+        }
+    }
+}
