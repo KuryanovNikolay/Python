@@ -1,0 +1,16 @@
+#id: 1
+#mode: files
+#path: C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\input1.txt, C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\input2.txt
+#action: string
+#id: 2
+#mode: files
+#path: C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\input1.txt, C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\input2.txt
+#action: replace
+#id: 3
+#mode: files
+#path: C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\input1.txt, C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\input2.txt
+#action: count
+#id: 4
+#mode: dir
+#path: C:\Users\Nikolaus\PycharmProjects\configuration_processing\tests\directory
+#action: count
